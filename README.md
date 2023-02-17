@@ -1,4 +1,4 @@
-Repo link: https://github.com/pakshalghiya7/gitPracticle
+Repo link:  https://github.com/pakshalghiya7/gitPracticle
 
 
 Practicle 1. Pull and Merge difference
