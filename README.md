@@ -1,3 +1,6 @@
+Repo link: https://github.com/pakshalghiya7/gitPracticle
+
+
 Practicle 1. Pull and Merge difference
 
 - Make example of pull request and two branch merge event.
